@@ -3,8 +3,8 @@ public class Cliente {
     private Integer id;
     private String nome;
     private Integer idade;
-    private String CPF;
-    private String RG;
+    private String cpf;
+    private String rg;
 
     public Cliente() {
     }
